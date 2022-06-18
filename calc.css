@@ -56,6 +56,15 @@
 	border-radius: 5px;
 	
 }
+#header h1{
+	display: flex;
+	justify-content: center;
+	position: relative;
+	top: 120px;
+	font-family: sans-serif;
+	font-weight:500;
+	align-items: center;
+}
 .cl{
 	background-color: #F27827;
 }

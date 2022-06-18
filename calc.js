@@ -14,7 +14,7 @@ catch{
 function del(){
 	output.value = output.value.slice(0,-1);
 }
-function clear(){
-	output.value ="";
+function clr(){
+	output.value = "";
 }
 
