@@ -44,7 +44,8 @@
 }
 #display{
 	grid-column: span 4;
-	
+	outline:none;
+	border:none;
 	padding: 15px;
 	text-align: right;
 	box-shadow: inset 3px 3px 10px black;
